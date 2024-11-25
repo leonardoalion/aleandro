@@ -1,0 +1,11 @@
+[Unit]
+Description= Pisca dois leds amigos
+After=multi-user.target
+
+[Service]
+ExecStart=  /bin/python   /home/sel/7352/documentos/'PRATICA 3'/blink2.py
+ExecStop=   /bin/python   /home/sel/7352/documentos/'PRATICA 3'/blink3.py
+user=SEL
+
+[Install]
+WantedBy=multi-user.target

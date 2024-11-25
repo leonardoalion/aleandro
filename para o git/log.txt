@@ -1,0 +1,28 @@
+sel@raspberrypi:~/aleandro $ git log --reverse
+commit b47fab10f4cb22123b68b49af6b506d22bfde49f
+Author: leonardoalion <leonardoalion@usp.br>
+Date:   Mon Nov 18 11:14:41 2024 -0300
+
+    Initial commit
+
+commit 0da975702335e05d57a90356e4641f31ec804ecc
+Author: leonardoalion <leonardoalion@usp.br>
+Date:   Mon Nov 18 11:37:59 2024 -0300
+
+    Create token.txt
+
+commit d16f78b318bfb8b27985d9ca20ca77603337430c (HEAD -> main, origin/main, origin/HEAD)
+Author: leonardoalion <leonardoalion@usp.br>
+Date:   Mon Nov 18 11:38:40 2024 -0300
+
+    Create gitlink.txt
+    
+    link para github
+
+
+sel@raspberrypi:~/7352/documentos/PRATICA 3 $ git log
+commit 97dc93667721ea3a3809a1d173d9b23e9a5df785 (HEAD -> master)
+Author: leonardoalion <leonardoalion@usp.br>
+Date:   Mon Nov 25 11:55:13 2024 -0300
+
+    arquivos da pratica adicionados
